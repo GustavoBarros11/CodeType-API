@@ -1,0 +1,403 @@
+{
+    "java": [{
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "void convert() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "double jth=data.get(pi);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int max = pi;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return o2.freq - o1.freq;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "new Graph.Edge(\"d\", \"e\", 6),"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "encoder.put(node.ch, osf);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "this.dist = dist;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "@SerializedName(\"b\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int sn = scn.nextInt();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return s;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "new Graph.Edge(\"a\", \"f\", 14),"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Node fn = new Node();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "fn.freq = n1.freq + n2.freq;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "public static class Edge {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "package Others;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "void convert() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "code = \"\";"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Node fn = new Node();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "new Graph.Edge(\"c\", \"f\", 2),"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Node right;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "while (i < arr.length){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "print(strings);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "heap.add(n);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Character ch;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "public class Dijkstra {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "print(integers);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "public final int dist;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "if (this == this.previous) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "import java.util.ArrayList;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int j = dec & halfByte;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "import java.util.ArrayList;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "swapped = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "while (i < arr.length){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "swap(arr, i - 1, i);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "decoder.put(osf, node.ch);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return o2.freq - o1.freq;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "max = lci;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "this.ctor=ctor;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "gnomeSort.sort(strings);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "private void printPath() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "class DecimalToHexaDecimal {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "new Graph.Edge(\"e\", \"f\", 9),"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "import java.util.ArrayList;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int j = 2;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Character ch;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "} else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "max = lci;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "if (max != pi) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Node n2 = heap.removeHP();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int db = scn.nextInt();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "v.printPath();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "fn.left = n1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "public class HEncoder {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "System.out.println();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "q.remove(v);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "sc.close();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "@SerializedName(\"f\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "q.remove(v);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Node right;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "class DecimalToHexaDecimal {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "@SerializedName(\"b\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "import java.util.HashMap;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "m = 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "import java.util.Comparator;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int i = 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "n.right = null;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "System.out.println(\"Hello\");"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "ob.sort(arr);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "freqmap.put(ch, 1);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "if(ctor.compare(ith,jth)>0)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "this.name = name;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int j = dec & halfByte;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int dec = 305445566;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "char ch = feeder.charAt(i);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "private static class Node {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "@SerializedName(\"u\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Scanner input = new Scanner()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "swap(0, data.size() - 1);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "while (!q.isEmpty()) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "private String flags;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return data.get(0);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "n.ch = c;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "package Java.Conversions;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "void convert() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "g.printPath(END);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "public void printAllPaths() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "return o2.freq - o1.freq;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "public void printAllPaths() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "import java.util.Comparator;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "private String shard;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "private void printPath() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "} else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "data.set(pi, ith);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "Node right;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "public static void main(String[] args) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb1",
+            "line": "int size = arr.length;"
+        }
+    ]
+}

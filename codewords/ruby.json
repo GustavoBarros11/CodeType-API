@@ -1,0 +1,643 @@
+{
+    "ruby": [{
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "__ENCODING_"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "__LINE__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "__FILE__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "BEGIN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "END"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "alias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "begin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "def"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "defined"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "elsif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "endexpressions"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "ensure"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "module"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "next"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "not"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "or"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "redo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "rescue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "retry"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "super"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "undef"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "unless"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "until"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "when"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "yield"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "alias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "BEGIN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "begin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "def"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "defined?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "elsif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "END"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "end"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "ensure"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "module"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "next"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "not"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "or"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "redo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "rescue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "retry"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "super"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "undef"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "unles"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "until"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "when"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "yield"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "_ _FILE_ _"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "_ _LINE_ _"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "__ENCODING_"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "__LINE__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "__FILE__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "BEGIN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "END"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "alias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "begin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "def"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "defined"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "elsif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "endexpressions"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "ensure"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "module"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "next"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "not"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "or"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "redo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "rescue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "retry"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "super"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "undef"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "unless"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "until"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "when"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "yield"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "alias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "BEGIN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "begin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "def"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "defined?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "elsif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "END"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "end"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "ensure"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "module"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "next"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "not"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "or"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "redo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "rescue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "retry"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "super"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "undef"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "unles"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "until"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "when"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "yield"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "_ _FILE_ _"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "word": "_ _LINE_ _"
+        }
+    ]
+}

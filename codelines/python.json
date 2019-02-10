@@ -1,0 +1,787 @@
+{
+    "python": [{
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "imgs = X_train[idx]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "from Speech import speak"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "optimizer=opt,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "local=True,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "gan = GAN()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "optimizer='adam',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "handle=profile.handle,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dense(512))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def build_generator(self):"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients.append("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "os.system(\"clear\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Profile.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "speak(\"Quit terminal.\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if recipient:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "print('Loading data...')"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dropout(0.5))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "following=follow,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model = Sequential()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dropout(0.5))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if __name__ == '__main__':"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "metrics=['accuracy'])"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "for epoch in range(epochs):"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Activation('relu'))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "fill_mode='nearest',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if __name__ == '__main__':"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "Example: adding bi-gram"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "license='MIT',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "super().setUpTestData()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "for epoch in range(epochs):"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dense(256))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "Else, failure."
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "user = UserFactory()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if command.lower() == \"exit\":"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "self.img_cols = 28"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "super().setUpTestData()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "from Speech import speak"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients.extend("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if not recipients:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "epochs = 100"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "max_features = 20000"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Profile.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "@classmethod"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "gan = GAN()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dense(512))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if __name__ == '__main__':"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def run(self):"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "f_corpora = open(path,\"r\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "root_content = content.root"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "local=True,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "num_classes = 10"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "preprocessing_function=None,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def fn_close_movie():"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except User.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients = ["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "os.system(\"clear\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "del data_temp"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Conv2D(32, (3, 3)))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model = Sequential()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "metrics=['accuracy'])"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dense(1024))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "@classmethod"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "for share in shares:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "optimizer='rmsprop',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "@classmethod"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "[user.email],"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def send_reply(content_id):"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Profile.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if docs == 'both':"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": ":returns: Set of User objects"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model = Sequential()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "epochs=epochs,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.fit(x_train, y_train,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "@classmethod"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model = Sequential()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "os.system(\"clear\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "\"subject\": subject,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def __init__(self):"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Profile.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "local=True,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "local=True,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "epochs=epochs,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def database():"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "cls.participant_emails = ["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if recipient_id:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "batch_size=batch_size,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def main():"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "os.system(\"clear\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Activation('relu'))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "print('Build model...')"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "import logging"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "for reply in replies:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Antirectifier())"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "datagen = ImageDataGenerator("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "@classmethod"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.summary()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "super().setUpTestData()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "settings.DEFAULT_FROM_EMAIL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "profile = None"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if recipient:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "root_content = content.root"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dense(num_classes))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "elif docs == 'tos':"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def database():"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "self.latent_dim = 100"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Profile.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "return new_sequences"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "ngram_set = set()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "optimizer='adam',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "cls.user3 = UserFactory()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "fail_silently=False,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "from typing import List"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "datagen.fit(x_train)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model = Sequential()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "batch_size=batch_size),"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.fit(x_train, y_train,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except NoSenderKeyFoundError:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "root_content = content.root"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def database():"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "img = model(noise)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "parent_author.handle,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Antirectifier())"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def run(self):"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "return Model(noise, img)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "neg = K.relu(-inputs)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dense(512))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "cls.participant_emails = ["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "root_content = content.root"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if not recipients:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "epochs = 100"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model = Sequential()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "plt.close()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "for user in users:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "settings.DEFAULT_FROM_EMAIL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "import numpy as np"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "for reply in replies:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "def setUpTestData(cls):"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "recipients = ["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "f_ok.close()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "return tuple(shape)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "license='MIT',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "import django_rq"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "gan = GAN()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if __name__ == \"__main__\":"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "f_ok.close()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "import django_rq"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "print('Build model...')"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "fail_silently=False,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "self.channels = 1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "data_format=None,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "@classmethod"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "@classmethod"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "packages=['tzara'],"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "handle=profile.handle,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "user = UserFactory()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "model.add(Dropout(0.25))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if __name__ == \"__main__\":"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "@classmethod"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except User.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "[user.email],"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "batch_size=batch_size,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "fail_silently=False,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "os.system(\"killall vlc\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except User.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if __name__ == '__main__':"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "if settings.DEBUG:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "super().setUpTestData()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "gan = GAN()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "from setuptools import setup"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "from Speech import speak"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "except Content.DoesNotExist:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "return Model(noise, img)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "line": "author='Suman Pal',"
+        }
+    ]
+}

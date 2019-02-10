@@ -1,0 +1,387 @@
+{
+    "c++": [{
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "alignas "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "alignof "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "and_eq"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "asm"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "atomic_cancel "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "atomic_commit "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "atomic_noexcept "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "auto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "bitand"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "bitor"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "bool"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "catch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "char"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "char16_t "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "char32_t "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "compl"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "concept "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "const"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "constexpr "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "const_cast"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "co_await "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "co_return "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "co_yield "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "decltype "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "delete"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "double"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "dynamic_cast"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "enum"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "explicit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "export"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "extern"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "float"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "friend"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "goto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "import "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "inline"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "int"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "long"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "module "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "mutable"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "namespace"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "new"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "noexcept "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "not"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "not_eq"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "nullptr "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "operator"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "or"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "or_eq"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "protected"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "public"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "register"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "reinterpret_cast"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "requires "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "short"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "signed"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "sizeof"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "static"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "static_assert "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "static_cast"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "struct"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "synchronized "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "template"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "this"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "thread_local "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "throw"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "try"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "typedef"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "typeid"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "typename"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "union"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "unsigned"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "using"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "virtual"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "void"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "volatile"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "wchar_t"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "xor"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "word": "xor_eq"
+        }
+    ]
+}

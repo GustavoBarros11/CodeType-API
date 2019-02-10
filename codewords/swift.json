@@ -1,0 +1,563 @@
+{
+    "swift": [{
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "as"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "associativity"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "deinit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "dynamicType"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "convenience"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "enum"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "dynamic"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "extension"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "is"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "didSet"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "func "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "final"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "get"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "init"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "fallthrough"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "Self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "infix"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "internal"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "super"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "inout"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "let"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "lazy"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "operator"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "__COLUMN__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "left"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "__FILE__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "mutating"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "protocol"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "__FUNCTION__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "none"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "public"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "where"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "__LINE__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "nonmutating"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "static"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "optional"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "struct"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "override"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "subscript"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "postfix"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "typealias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "precedence"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "var"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "prefix"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "Protocol"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "required"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "right"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "set"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "Type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "unowned"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "weak"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "as"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "associativity"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "deinit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "dynamicType"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "convenience"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "enum"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "dynamic"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "extension"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "is"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "didSet"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "func "
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "final"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "get"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "init"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "fallthrough"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "Self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "infix"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "internal"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "super"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "inout"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "let"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "lazy"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "operator"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "__COLUMN__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "left"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "__FILE__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "mutating"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "protocol"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "__FUNCTION__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "none"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "public"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "where"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "__LINE__"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "nonmutating"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "static"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "optional"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "struct"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "override"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "subscript"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "postfix"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "typealias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "precedence"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "var"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "prefix"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "Protocol"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "required"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "right"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "set"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "Type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "unowned"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "word": "weak"
+        }
+    ]
+}

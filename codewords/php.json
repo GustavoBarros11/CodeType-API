@@ -1,0 +1,343 @@
+{
+    "php": [{
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "__halt_compiler()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "clone"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "die()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "empty()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "endswitch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "final"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "global"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "include_once"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "list()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "try"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "xor"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "abstract"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "callable"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "const"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "enddeclare"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "endwhile"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "finally"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "goto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "instanceof"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "namespace"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "protected"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "static"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "unset()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "yield"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "echo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "endofr"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "eval()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "insteadof"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "new"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "public"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "use"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "array()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "catch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "declare"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "endforeach"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "exit()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "foreach"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "implments"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "interface"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "or"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "require"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "throw"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "var"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "as"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "elseif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "endif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "extends"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "function"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "include"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "isset()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "print"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "require_once"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "trait"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "ArithmeticError"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "AssertionError"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "Error"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "Throwable"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "ParseError"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "TypeError"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "static"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "parent"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "<$php"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "PHP_VERSION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "PHP_DEBUG"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "PHP_SAPI"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "E_PARSE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "E_WARNING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "null"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "word": "true"
+        }
+    ]
+}

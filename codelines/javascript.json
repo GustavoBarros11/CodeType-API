@@ -1,0 +1,403 @@
+{
+	"javascript": [{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var creator = \"Gustavo\";"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "function sumVector(vector) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "console.log(\"Hello World!\")"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "pos.begin = pend;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "j = posMatch + 1;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "if (openingToken !== undefined) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "pos.begin--;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "e.preventDefault();"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "window.location.href = url;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "i++;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "e.style.visibility = \"hidden\";"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var $input = $(this)"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return caretPos;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "\"action\": \"unmaskedvalue\""
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var data = str.split(\"/\");"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "fruits[0] = \"pineaple\";"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "clearInterval(myVar);"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "if (i == 1) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "current_record = 100;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "if (cl_number >= 2) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "x += studentAge.value;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "let obj = {age: 35};"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "getElementsByClassName()"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "cw = correct_keys;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "binding: function(){"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "shuffle: function(array){"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "temp = array[counter];"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "(function(){"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "import $ from 'jquery'"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "constructor(element, config) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "static get Default() {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "clearTimeout(this._timeout)"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this.setContent()"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "items[index].focus();"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "offset: 0"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "if (direction > 0) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "if (event) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var parent = null;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "if (this._popper !== null) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "index++;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "if (transition) {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "config.delay = {"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this.tip = null;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return VERSION;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "(event) => this.toggle(event)"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return _this.hide(event);"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "index--;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return DefaultType;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._activate(target);"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var _this2 = this;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._interval = null;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return DATA_KEY;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "const { name, products } = company;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._element = null;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var _this2 = this;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._enter(null, this);"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "writable: true"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return obj;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var _proto = Modal.prototype;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._leave(null, this);"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "slide: false,"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "context._enter(null, context)"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "triggerChangeEvent = false;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._setResizeEvent();"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "key: 'NAME',"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "event.preventDefault();"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "TOUCH : 'touch',"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "config[key] = config[key]"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return config;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "exports.Tooltip = Tooltip;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var _this3 = this;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this.show();"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return DefaultType;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "return VERSION;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "clearTimeout(context._timeout)"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "placement = AttachmentMap.RIGHT;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._element = null;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var EVENT_KEY = '.' + DATA_KEY;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "relatedTarget: relatedTarget"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this.element = null;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "var _this7 = this;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "wrap: 'boolean'"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": ".then(responseHeandler(val));"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "case ARROW_LEFT_KEYCODE:"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "import $ from 'jquery'"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._isEnabled = true;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "focus: 'boolean',"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "SHOW : 'show',"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._handleSwipe()"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "wrap: true,"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._triggerArray = null;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "exports.Util = Util;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "interval: '(number|boolean)',"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._items = null;"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "slide: false,"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "data.to(config);"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "html: false,"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "this._enter(null, this)"
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "const isInTheDom = $.contains("
+		},
+		{
+			"language_id": "5c0e27090c2a55426cf37bae",
+			"line": "(result) => {)"
+		}
+	]
+}

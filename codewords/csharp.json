@@ -1,0 +1,439 @@
+{
+    "csharp": [{
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "abstract"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "as"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "base"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "bool"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "byte"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "catch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "char"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "checked"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "const"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "decimal"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "delegate"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "double"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "enum"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "event"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "explicit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "extern"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "finally"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "fixed"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "float"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "foreach"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "goto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "implicit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "int"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "interface"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "internal"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "is"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "lock"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "long"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "namespace"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "new"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "null"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "object"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "operator"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "out"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "override"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "params"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "protected"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "public"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "readonly"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "ref"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "sbyte"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "sealed"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "short"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "sizeof"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "stackalloc"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "static"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "string"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "struct"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "this"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "throw"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "try"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "typeof"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "uint"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "ulong"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "unchecked"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "unsafe"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "ushort"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "using"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "using"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "static"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "virtual"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "void"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "volatile"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "add"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "alias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "ascending"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "async"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "await"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "by"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "descending"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "dynamic"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "equals"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "from"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "get"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "global"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "group"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "into"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "join"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "let"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "nameof"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "on"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "orderby"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "parcial"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "partial"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "remove"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "select"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "set"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "value"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "var"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "when"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "where"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "where"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "word": "yield"
+        }
+    ]
+}

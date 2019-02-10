@@ -1,0 +1,803 @@
+{
+    "swift": [{
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#endif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attribute: layoutFromAttribute,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#endif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.bottomMargin)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "multiplier: self.multiplier,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "selectedIndex = to"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "item.title = \"\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if layoutConstraint.isActive {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if layoutToAttributes.count > 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#if os(iOS) || os(tvOS)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return .greaterThanOrEqual"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "public func install() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "view.addConstraint(constH)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "case equal = 1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.to = to"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "icon.alpha = 0.5"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if layoutToAttributes.count > 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if layoutConstraint.isActive {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constant: height)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "let gestureView = gesture.view else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "open func deselectedState() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "import UIKit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.attributes = attributes"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if let height = height {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.left)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutToAttribute = layoutFromAttribute"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return .greaterThanOrEqual"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "containers = createViewContainers()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if layoutToAttributes.count > 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if newValue {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.trailing)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@discardableResult"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attribute: layoutToAttribute,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "item.image = nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutToAttribute = .top"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "set(newValue) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if isBottomLineShow {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.width)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@discardableResult"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.from = from"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constant: self.constant,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "textLabel.text = title"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "Set deselected state without animation"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "} else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "textLabel.alpha = 0.5"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "let related = self.related,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return .equal"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attribute: layoutFromAttribute,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attribute: layoutToAttribute,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if let height = height {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "guard let relation = self.relation,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "let controller = children[currentIndex]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@discardableResult"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "view.addSubview(viewContainer)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "var constranints:[NSLayoutConstraint]!"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "var constranints:[NSLayoutConstraint]!"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if layoutToAttributes.count > 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constraintsSet.remove(constraint)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "toItem: layoutTo,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.deactivate()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "from: from,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.init(rawValue: rawValue)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "container.addSubview(textLabel)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "let currentIndex = gestureView.tag"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "bottomAnchor.isActive = true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#if os(iOS) || os(tvOS)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "items[to].playAnimation()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.leadingMargin)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.init(rawValue: rawValue)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "multiplier: self.multiplier,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.relation = relation"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if selectedIndex != currentIndex {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "for constraint in item.constraints {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "icon.alpha = 0.5"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.centerYWithinMargins)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "case .portrait:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "didSet {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutToAttribute = .bottomMargin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "import UIKit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "open override func viewDidLoad() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "internal var label: String? = nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutToAttribute = layoutFromAttribute"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutToAttribute = .top"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "for item in items {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 9.0, OSX 10.11, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "} else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.centerY)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "defaultTextColor: textColor,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "index += 1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "let controller = children[currentIndex]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "internal let item: LayoutConstraintItem"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if newValue == nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.trailing)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.to = to"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "var bottomLine: UIView?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutConstraint.constraint = self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "didSet {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "private let to: ConstraintItem"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if isBottomLineShow {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#if os(iOS) || os(tvOS)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "internal init(from: ConstraintItem,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "import UIKit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "public var height: ConstraintItem {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "createCustomIcons(containers)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "view.addConstraints(constranints)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "fatalError()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.deactivateIfNeeded()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutToAttribute = .leftMargin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "} else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "public var isActive: Bool {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutToAttribute = .right"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "open override func viewDidLoad() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#endif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attribute: layoutFromAttribute,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "from: from,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constant: layoutConstant"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "didSet {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.activate()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.centerYWithinMargins)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "} else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.topMargin)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "private let to: ConstraintItem"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "switch layoutFromAttribute {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "container.addSubview(icon)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "priority: self.priority"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "priority: self.priority"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "self.label = label"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "view.addConstraints(constranints)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#endif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "view.addSubview(viewContainer)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "container.addSubview(textLabel)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "var bottomLine: UIView?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#endif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "viewContainer.addConstraint(constH)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "arrViews.append(viewContainer)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "viewContainer.isExclusiveTouch = true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "Start selected animation"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constraintsSet.remove(constraint)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.lastBaseline)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "for item in items {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "case .landscapeLeft,.landscapeRight :"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.width)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constant: width)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "metrics: nil,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if layoutToAttributes.count > 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "for item in items {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "return nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "Start selected animation"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "case .leftMargin:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "view.addConstraints(constranints)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "public class ConstraintDescription {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "fatalError()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.leading)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constraintsSet.add(constraint)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "switch(self) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "public func deactivate() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "multiplier: 1,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "for item in items {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "item.deselectedState()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constant: 0)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "for item in items {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#if os(iOS) || os(tvOS)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.rightMargin)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "internal let label: String?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutConstraint.label = self.label"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "case .topMargin:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "layoutToAttribute = .top"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "@available(iOS 8.0, OSX 10.11, *)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "constant: 0)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "toItem: nil,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "initializeContainers()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#if os(iOS) || os(tvOS)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.centerXWithinMargins)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "import AppKit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "if isBottomLineShow {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "container.addConstraint(constY)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "#endif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "item.deselectedState()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "attrs.append(.bottomMargin)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "case greaterThanOrEqual"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb8",
+            "line": "} else {"
+        }
+    ]
+}

@@ -1,0 +1,792 @@
+{
+    "c++": [
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "#define ADD_INPUT_CHAR(ch)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_NEXT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "cam.update();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return NULL;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "int i;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "continue;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_SHIFT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "sAltTabMenuIsVisible = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void draw();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_NEXT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void clear();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (fore_win)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (aEventFlags & LLKHF_INJECTED)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void addAudioUnit(string name);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "else if (!aKeyUp && vk_is_shift)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_LCONTROL:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "delete block;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "gui.draw();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_LSHIFT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofxOscMessage msg;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "this_key.it_put_alt_down = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (key_up)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofSetColor(ofColor::red);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "#include \"hook.h\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "KeyEvent(KEYUP, aVK, aSC);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void keyPressed(int key);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "Chris Mallett Version 1.0.48.04"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "setup();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (live == NULL) return;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "#include \"AudioUnitController.h\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "cam.initGrabber(320, 240);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofDrawBitmapString(txt, 20, 296);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "g_HistoryTickNow = GetTickCount();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (!aKeyUp)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (!aKeyUp)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void ofApp::update(){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "g_HistoryTickNow = GetTickCount();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "output.start();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void ofApp::draw(){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (normalize) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "KeyEvent(KEYUP, VK_MENU);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "HWND alt_tab_window;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "KeyEvent(KEYDOWNANDUP, aVK, aSC);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (b1.vk && !b2.vk)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "which_alt_down = aVK;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_END:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "static vk_type sPriorVK;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "switch (aVK)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void update();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "delete [] ksc;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "which_shift_down = VK_RSHIFT;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_LSHIFT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofSetWindowTitle(\"ConvnetOSC\");"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (!is_ignored)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "active->clearElements();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "KeyEvent(KEYUP, aVK, aSC);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofPushStyle();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (aKeyUp)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "switch (hk.mVK)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "which_alt_down = aVK;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "AudioUnitController *au;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "bool problem_activating_hooks;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "|| !this_key.used_as_prefix"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (aKeyUp)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "this_key.is_down = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return treat_as_visible;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "sAltTabMenuIsVisible = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void clear();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "problem_activating_hooks = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (aHook == g_KeybdHook)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_RSHIFT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "HotkeyIDType this_hk_id;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofDrawBitmapString(txt, 20, 296);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "osc.getNextMessage(msg);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "KeyEvent(KEYUP, VK_LCONTROL);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ADD_INPUT_CHAR(ch[1])"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "modifier_vk = this_modifier_vk.vk;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "key.down_performed_action = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "public:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "refreshAddresses();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "active->setCollapsible(true);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "panel.draw();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if ((*it)->tVisible) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "static HANDLE sMouseMutex = NULL;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "switch (aVK)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_SHIFT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void ofApp::keyReleased(int key){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofSetColor(0, 100);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (!is_ignored)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void setupGui();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (vk == VK_LCONTROL)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_LSHIFT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_MENU:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_RMENU:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "au->getParameter(name).set(ival);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "vector<Section*> sections;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return treat_as_visible;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "static bool sPriorEventWasKeyUp;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "else if (!aKeyUp && vk_is_shift)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "pThisKey->used_as_key_up = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "cam.draw(210, 10);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "this->track = track;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "synthGui.setWidth(300);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "gui.setPosition(310, 0);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofVideoPlayer video;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "KeyEvent(KEYUP, VK_NUMLOCK);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if ((*its) == it->first) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (hs.mCaseSensitive)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "++pThisKey->nModifierVK;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return -1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "sDisguiseNextLWinUp = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void ofApp::sendOsc() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "key.it_put_alt_down = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "switch (hk.mVK)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "this_key.it_put_alt_down = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "g_HSBuf[g_HSBufLength] = '\u0000';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return AllowKeyToGoToSystem;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void update();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "public:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofxPanel gui;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "Chris Mallett Version 1.0.48.04"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "continue;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "KeyEvent(KEYUP, VK_LSHIFT);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (this_hk.vk == VK_LMENU)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "osc.setup(portIn);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "#include \"AbletonGui.h\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "(*it)->panel.setAutoUpdate(true);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void draw();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "fell_through_from_case2 = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return NULL;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofXml xml;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "else if (hs.mDoBackspace)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (!aKeyUp)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_LEFT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "else if (hs.mDoBackspace)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void removeAudioUnit(string name);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "osc.setup(portIn);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "AutoHotkey"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "pPrefixKey = &this_key;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (wParam == WM_MOUSEWHEEL)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "active->clearElements();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofSetColor(255);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofVideoGrabber cam;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "GetModifierLRState(true);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "g_modifiersLR_physical |= modLR;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "#ifdef ENABLE_KEY_HISTORY_FILE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "pThisKey = kvk + hk.mVK;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "panel.setName(track->getName());"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "tracks.push_back(newMasterTrack);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (aHook == g_KeybdHook)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (this_hk.vk == VK_LMENU)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "(*it)->panel.setAutoUpdate(true);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "AudioUnitController *au;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "for (i = 0; i < MAX_HOTKEYS; ++i)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "sPriorEventWasKeyUp = aKeyUp;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "modifier_sc = this_modifier_sc.sc;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "DWORD last_error = GetLastError();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (currentMidiDevice != NULL) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (hk.mKeyUp)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void draw();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "main.setName(\"AbletonOSC\");"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofVideoGrabber cam;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (aHook == g_MouseHook)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofPopStyle();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "static key_type *ksc = NULL;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "\"Prefix key is down: %s\r\n\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "which_shift_down = aVK;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (aKeyUp)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofxCcv ccv;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "live.update();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "KeyEvent(KEYUP, VK_RSHIFT);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "if (g_KeybdHook)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_SHIFT:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "which_control_down = VK_LCONTROL;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "gui.setName(\"ConvnetOSC\");"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void ofApp::setup(){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "hotkey_up = NULL;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "RESET_KEYTYPE_ATTRIB(kvk[i])"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "void Section::remove() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "#include \"ofMain.h\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "return NULL;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "refreshAddresses();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "while (it != tracks.end()) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "ofPushMatrix();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "case VK_LMENU:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "else if (!aKeyUp && vk_is_shift)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "g_modifiersLR_physical &= ~modLR;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "#include \"ofApp.h\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "else if (key=='e') note = 74;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb6",
+            "line": "else if (key=='u') note = 81;"
+        }
+    ]
+}

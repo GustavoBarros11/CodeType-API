@@ -1,0 +1,755 @@
+{
+    "go": [{
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "config.Dialer = &net.Dialer{"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "_, err := c1.Write(b1)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return DialConfig(config)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return err"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "defer wg.Done()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if !ok {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "n, err = ws.frameReader.Read(msg)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if ws.frameReader != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return ErrBadWebSocketProtocol"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "const ("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "PayloadType() byte"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "case *[]byte:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "testConn(t, mp)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "var config Config"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "testRoundtrip(t, c1)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "var message string"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "type hybiFrameWriter struct {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "\"encoding/base64\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "scheme = \"wss\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "frame.pos++"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "config := new(Config)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "_, err := c1.Write(b1)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "url, host string"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "for i := 0; i < 10; i++ {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "defer wg.Done()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "c1.SetWriteDeadline(aLongTimeAgo)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "endPos := pos + expectedLen[step]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "_, err = w.Write(msg)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if len(c.Protocol) > 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "pos := 0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "go pingPonger(c2)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "for i := 0; i < 100; i++ {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return err"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "Connection: Upgrade"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "for err == nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "c1.RemoteAddr()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "for i := 0; i < 10; i++ {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "nonce := generateNonce()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "go func() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "time.Sleep(100 * time.Millisecond)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return ErrBadWebSocketProtocol"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if maxPayloadBytes == 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "b1 := make([]byte, 1024)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err := c2.Close(); err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "io.Copy(ioutil.Discard, frame)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "writer *bufio.Writer"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "go chunkedCopy(ioutil.Discard, c2)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "log.Fatal(err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "Len() int"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "case PingFrame, PongFrame:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "switch frame.PayloadType() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "payloadType byte"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "handler.conn.wio.Lock()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "defer wg.Wait()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "var wg sync.WaitGroup"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "go func() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "key := make([]byte, 16)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "w.Close()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "wg.Add(1)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "case \"13\":"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "expectedPos := []int{2, 5, 16, 19}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if ws.IsClientConn() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if config.Location == nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "key = \"quay\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "var err error"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if len(config.Protocol) != 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "t.Fatal(\"request\", err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "expectedLen := []int{3, 2, 3, 2}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "PongFrame = 10"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "br := bufio.NewReader(rwc)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "err = frame.writer.Flush()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "io.Copy(ioutil.Discard, frame)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err = bw.Flush(); err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return n, err"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "for i := 0; i < 3; i++ {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "type Codec struct {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "const ("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "lengthFields := 0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "\"io/ioutil\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "c1.SetWriteDeadline(aLongTimeAgo)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "testRoundtrip(t, c1)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return errSetDeadline"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "ws.wio.Lock()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return errSetDeadline"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "t.Errorf(\"no header\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "defer wg.Done()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return 0, err"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "defer tlsServer.Close()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if n != 5 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "checkForTimeoutError(t, err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "bw.WriteString(\"\r\n\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "b := bytes.NewBuffer([]byte{})"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "time.Sleep(100 * time.Millisecond)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "resyncConn(t, c1)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if mask {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "websocket.JSON.Send(ws, data)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "testRoundtrip(t, c1)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return host"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "for err == nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "b |= 127"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "_, err = r.Read(payload)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if n != 5 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "for _, tt := range tests {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "t.Fatal(\"location url\", err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "b := bytes.NewBuffer([]byte{})"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if i < 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "case length <= 125:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "msg := make([]byte, 3)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "again:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "b, err = buf.ReadByte()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "payload := []byte(\"hello\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "t.Fatal(\"request\", err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "w.Close()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "c1.Read(make([]byte, 1024))"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "Trivial usage:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if dialer == nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if len(deadlineSet) == 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "n, err := conn.Read(msg)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "go chunkedCopy(ioutil.Discard, c2)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return host[:j] + host[i:]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "go func() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "step := 0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "\"Connection\": true,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "Sec-WebSocket-Version: 9"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "buf.WriteString(\"\r\n\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "t.Errorf(\"no header\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "t.Fatal(\"location url\", err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return &Addr{ws.config.Origin}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "b |= byte(length)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "ErrorString string"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "for err == nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return err"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "log.Fatal(err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "testRoundtrip(t, c1)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "neverTimeout = time.Time{}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if n != 5 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "import ("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "MaskingKey []byte"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "\"Connection: Upgrade\","
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "again:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "HeaderReader() io.Reader"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "var wg sync.WaitGroup"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "b := bytes.NewBuffer([]byte{})"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "msg := make([]byte, 3)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "import ("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "ws.wio.Lock()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "dialerr, ok := err.(*DialError)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "b = byte((length >> j) & 0xff)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "var b byte"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "type test struct {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "switch config.Version {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "req, err := http.ReadRequest(br)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "const s = \"Hello, world!\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "type Config struct {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "defer wg.Done()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "\"encoding/base64\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "go func() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "default:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if n != 0 {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "checkForTimeoutError(t, err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "websocket.Message.Send(ws, data)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return 0, ErrBadMaskingKey"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "ws.rio.Lock()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "*Config"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "return nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "t.Errorf(\"Read error %q\", err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "config := new(Config)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "if err != nil {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "t.Fatal(\"location url\", err)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "length int"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "line": "PayloadType: TextFrame,"
+        }
+    ]
+}

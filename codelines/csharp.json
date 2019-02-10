@@ -1,0 +1,799 @@
+{
+    "csharp": [{
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x2 = xsect(m3, m1);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var result = new ushort[count];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "array[i, j] = value;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System.Reactive.Subjects;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (value is TimeSpan)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "protected XmlWriterBase()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System.Globalization;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.MajorGridlineThickness = 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x2 = xsect(m3, m1);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var finalSize = dataSize - space;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "range = Math.Abs(range);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return x;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return x;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "public void Dispose()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "case TickStyle.Outside:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (updatedBootVolume != null)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.Position = AxisPosition.Left;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ViewMaximum = double.NaN;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return \"g6\";"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "y2 = ysect(m2, m3);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "height += maximumTextSize.Height;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "GC.SuppressFinalize(this);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "public bool IsReversed"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "actualMaximum += zeroRange * 0.5;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "renderer(x1, y1, x2, y2, z[k]);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "clippingRectangle,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return null;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.StartPosition = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.DataMaximum = double.NaN;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ActualMinimum = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "for (int d = 1; d <= 64; d++)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double y2 = 0.0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System.Globalization;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "await bootVolume.Mount();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using OxyPlot.Series;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ViewMinimum = newMinimum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "public AxisPosition Position"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double y0 = bounds.Bottom;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "Array.Reverse(a);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var result = new double[n + 1];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System.Text;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "switch (caseValue)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ViewMinimum = newMinimum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "encoding = Encoding.UTF8;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return maxIntervalSize;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x2 = xh[m3];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ZoomAt(factor, x);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x1 = xsect(m3, m1);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double x0 = bounds.Left;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "switch (this.Type)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "width += this.MajorTickSize;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "y2 = ysect(m3, m1);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "int n = y.Length;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "switch (caseValue)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System.Collections.Generic;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var ni = (int)Math.Round(n);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "newMaximum = this.AbsoluteMaximum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "value > this.FilterMinValue &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": ": this.MinimumX;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.disposed = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double value,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (value is DateTime)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ViewMinimum = newMinimum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System.IO;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "width += labelTextSize.Height;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using Installer.Core.FileSystem;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.w.WriteRaw(text);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x2 = xsect(m2, m3);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "for (int i = 0; i < count; i++)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double height = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return result;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "IList<double> majorLabelValues;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ViewMinimum = double.NaN;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System.Linq;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "? this.MinorStep"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return percentage;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "int[,,] castab ="
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "y1 = yh[m2];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var result = new double[n + 1];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x1 = xh[m3];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "else if (h[m] < 0.0)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using Installer.Core.FileSystem;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x2 = xsect(m2, m3);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using Installer.Core.Exceptions;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.MaximumPadding = 0.01;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "public virtual void Reset()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "fx = x => this.Y;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x1 = xh[m3];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.Pan(dsx);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "string formatString = null)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "y1 = yh[m3];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.UpdateActualMaxMin();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double x0 = bounds.Left;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.TextRotation = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ViewMaximum = newMaximum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (updatedBootVolume != null)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "newMaximum = this.AbsoluteMaximum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "handler(this, args);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "public bool IsReversed"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "string formatString = null)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.IsPanEnabled = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.MajorTickSize = 7;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "y2 = yh[m2];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "case TickStyle.Outside:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (labelTextSize.Height > 0)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "a1 = a0 + (this.EndPosition * dx);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "GC.SuppressFinalize(this);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "VerticalAlignment.Middle);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.MaximumY = double.MaxValue;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "sh[m] = -1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "newMaximum = this.AbsoluteMaximum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var result = new double[m, n];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.MinimumMajorStep = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ActualMaximum = this.Maximum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ActualTextColor,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "newMaximum = this.AbsoluteMaximum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.UpdateActualMaxMin();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.disposed = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var sh = new int[5];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.Text,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double height = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double exp = Exponent(x);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.position = value;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return value == value &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (!this.IsPanEnabled)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using Serilog;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "? this.ClipByXAxis"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.Maximum = double.NaN;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "max = array[i, j];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (range < double.Epsilon)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using Installer.Core.Utils;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "protected void WriteEndElement()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "GC.SuppressFinalize(this);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "textPosition,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "? this.XAxis.ActualMaximum"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "sh[m] = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double range = max - min;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "Array.Reverse(a);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "array[i] = value;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.scale *= factor;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.StrokeThickness);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var xh = new double[5];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "IList<double> minorTickValues;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "var sh = new int[5];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "int n = y.Length;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "string s = this.FormatValue(v);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ActualMajorStep);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "switch (this.Type)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "double x1 = bounds.Right;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "public int Compare(T x, T y)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.UpdateActualMaxMin();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "x2 = xh[m3];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "sh[m] = 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using Installer.Core.Exceptions;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (this.Unit != null)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "public virtual void Reset()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.IsZoomEnabled = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System.Globalization;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "sh[m] = 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using Installer.Core.Utils;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.MinorTickSize = 4;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ActualCulture,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.w.WriteStartElement(name);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "rc.DrawClippedRectangle("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "private double offset;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "m3 = m + 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return string.Format("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "y1 = ysect(m1, m2);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.EndPosition = 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "private double offset;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (this.Unit != null)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.UpdateActualMaxMin();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "public abstract bool IsXyAxis();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.Maximum = double.NaN;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "newMaximum = this.AbsoluteMaximum;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.ViewMinimum = double.NaN;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "int[] im = { 0, 1, 1, 0 };"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "a1 = a0 + (this.EndPosition * dx);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "private AxisPosition position;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using System;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "using Installer.Core.Services;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "this.DataMaximum = double.NaN;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (caseValue != 0)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (range < double.Epsilon)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "private double scale;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "if (!this.IsZoomEnabled)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "return min;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb5",
+            "line": "Log.Information(\"Boot patched\");"
+        }
+    ]
+}

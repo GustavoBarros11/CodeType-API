@@ -1,0 +1,555 @@
+{
+    "python": [{
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "del"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "from"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "not"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "as"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "elif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "global"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "or"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "with"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "assert"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "pass"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "yield"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "except"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "print"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "exec"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "raise"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "finally"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "is"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "def"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "lambda"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "try"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "index"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "pandas"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "numpy"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "matplotlib"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "csv"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "as"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "open()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "read()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "setup"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "kears"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "Sequential()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "type()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "append()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "extends()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "insert()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "remove()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "index()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "count()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "pop()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "reverse()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "copy()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "any()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "bool()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "enumerate()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "filter()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "iter()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "list()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "sort()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "len()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "slice()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "sorted()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "sum()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "zip()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "map()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "reduce()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "filter()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "lambda"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "del"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "from"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "not"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "as"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "elif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "global"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "or"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "with"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "assert"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "pass"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "yield"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "except"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "print"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "exec"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "raise"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "finally"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "is"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "def"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "lambda"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "try"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "index"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "pandas"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "numpy"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "matplotlib"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "csv"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "as"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "open()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "read()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "setup"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "kears"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "Sequential()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "type()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "append()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "extends()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "insert()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "remove()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "index()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "count()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "pop()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "reverse()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "copy()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "any()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "bool()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "enumerate()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "filter()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "iter()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "list()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "sort()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "len()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "slice()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "sorted()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "sum()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "zip()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "map()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "reduce()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "filter()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb0",
+            "word": "lambda"
+        }
+    ]
+}

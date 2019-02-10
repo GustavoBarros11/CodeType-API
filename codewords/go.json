@@ -1,0 +1,403 @@
+{
+    "go": [{
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "func"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "interface"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "select"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "defer"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "go"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "map"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "struct"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "chan"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "goto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "package"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "const"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "fallthrough"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "range"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "var"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "func"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "interface"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "select"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "defer"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "go"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "map"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "struct"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "chan"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "goto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "package"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "const"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "fallthrough"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "range"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "var"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "func"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "interface"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "select"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "defer"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "go"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "map"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "struct"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "chan"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "goto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "package"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "const"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "fallthrough"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "range"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "var"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "default"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "func"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "interface"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "select"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "defer"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "go"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "map"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "struct"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "chan"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "goto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "package"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "const"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "fallthrough"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "range"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb4",
+            "word": "var"
+        }
+    ]
+}

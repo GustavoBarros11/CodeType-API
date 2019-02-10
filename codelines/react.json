@@ -1,0 +1,795 @@
+{
+    "react": [{
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "onMouseEnter = () => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export function prepareForCommit() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (br > 0) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "props.stroke,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "maskTrasformClass: 'mask-leave',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "$$typeof: REACT_ELEMENT_TYPE,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.x !== pooledTransform.x ||"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.xx !== pooledTransform.xx ||"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "setTrasformClass = () => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "store: PropTypes.object,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "pass: false,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "newFont.fontSize === oldFont.fontSize &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "? this.props.radiusBottomRight"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "img.crossOrigin = 'anonymous';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance._currentString !== string ||"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return props.scale;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "let jsxChildren = [];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "{...this.props}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "scale: 1,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "} = this.props"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "actualYields.length === 0,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "footer = null,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "{this.props.children}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "tl = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "function createEventHandler(instance) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "ease: 'easeInOutQuint',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const tdw = tds[i].offsetWidth"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "onMouseLeave = () => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "currentPage,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (instance._subscriptions[type]) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "invariant("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "prevProps.width !== props.width"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "delay: Math.random() * 500,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "'use strict';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "? jsonChild.props"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (tl > 0) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "message: () => error.message,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return text;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "createPointData = () => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "import ticker from 'rc-tween-one/lib/ticker'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "this.createPointData();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "actualJSX = actualJSXChildren;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export function resetTextContent(domElement) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "props.font,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "let jsxChildren = [];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "props.strokeWidth,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "componentWillUnmount() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "function isSameFont(oldFont, newFont) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "ctx.clearRect(0, 0, w, h);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "ref={(c) => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (child.parentNode === parentInstance) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.yy !== pooledTransform.yy ||"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "componentDidMount() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.stroke("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "static propTypes = {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "this.props.onCancel()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "w: 1038,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "path.move(0, height);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "@connect((state, props) => ({"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "Object.freeze(UPDATE_SIGNAL);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "newFont.fontVariant === oldFont.fontVariant &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "br = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "animation={this.state.boxAnim}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "break;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "delete instance._subscriptions[type];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export const cancelTimeout = clearTimeout;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "this.interval = null;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance._applyProps(instance, props);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "invariant("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance = Mode.Group();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "className=\"point\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const number = this.props.pixSize;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return jsonChildToJSXChild(jsonChildren[0]);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "import { connect } from 'react-redux'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.indicate(props.cursor, props.title);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "import React, { Component } from 'react'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "typeof ReactTestRenderer !== 'object' ||"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "import ticker from 'rc-tween-one/lib/ticker'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "key: null,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return props.scaleX;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.transformTo(pooledTransform);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance = Mode.ClippingRectangle();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "}, 100)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "visible = true,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (prevProps.fill !== props.fill) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return ("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance._applyProps = applyTextProps;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "delete instance._subscriptions[type];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "} else {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.transformTo(pooledTransform);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "config: state.config,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.draw(path, props.width, props.height);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "internalInstanceHandle,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "path.move(0, tl);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "actualYields.length === 0,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "opacity: 1,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return 1;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "static defaultProps = {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "React.cloneElement(item, {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return props.scale;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "this.dom = this.componentDom"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "import React, { Component } from 'react'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "disperseData = () => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return captureAssertion(() => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "onChange,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export function hideInstance(instance) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "jsxChildrenString += jsxChild;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "opacity: b,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "var PropTypes = require('prop-types');"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "} else if (props.scale != null) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "class AntModalBody extends Component {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "yoyo: true,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export const supportsMutation = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "this.interval = null"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "ref={(c) => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const thw = ths[i].offsetWidth"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (jsonChildren.length === 1) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "render() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "import { Table, Pagination } from 'antd'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (visible) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "assertYieldsWereCleared(root);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "tl = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "_owner: null,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "w: PropTypes.number,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "componentWillUnmount() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "import './logo.css'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "tableWidthAdaptive = () => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "assertYieldsWereCleared(root);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export function getPublicInstance(instance) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export default class app extends Component {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.show();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": ": radius;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const pooledTransform = new Transform();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "newFont.fontWeight === oldFont.fontWeight &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance._applyProps = applyTextProps;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "props: {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const ctx = canvas.getContext('2d');"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "case TYPES.SHAPE:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export function resetAfterCommit() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "createEventHandler(instance),"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "super(props);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "}, 250)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (listener) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "internalInstanceHandle,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "drawTrasformClass: 'draw-enter',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (tl + bl > height) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return props.scale;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "this.dom.removeChild(canvas);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "/** Helper Methods */"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "setTrasformClass = () => {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "return ("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const pooledTransform = new Transform();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "newFont.fontSize === oldFont.fontSize &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "drawerSizeClass: 'drawer-lg',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.xx !== pooledTransform.xx ||"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export default class Drawer extends Component {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "h: 280,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "} else if (actualJSON.length === 1) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "tr = 0;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const sideTop = sideRect.top - rect.top;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "var Path = ReactART.Path;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance = Mode.ClippingRectangle();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "props.fill.applyFill(instance);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (props.scaleX != null) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "key: null,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "false,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance._listeners = null;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (!instance._listeners) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export function getRootHostContext() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "width: PropTypes.number.isRequired,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "document.body.removeChild(this.popup)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "props.strokeWidth,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const sideLeft = sideRect.left - rect.left;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "destroyEventListeners(child);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "} = this.props"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export function hideTextInstance(textInstance) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "path.arc(-bl, -bl);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance.y !== pooledTransform.y"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "'use strict';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "instance,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const tdw = tds[i].offsetWidth"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "export function getChildHostContext() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "{this.state.children}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "listener.handleEvent(event);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "if (tds && tds.length) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "}, 250)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "const {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "child !== beforeChild,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb7",
+            "line": "store: PropTypes.object,"
+        }
+    ]
+}

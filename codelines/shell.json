@@ -1,0 +1,399 @@
+{
+    "shell": [{
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ADMUTE=0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# Change hostname if needed"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "case \"$CUSTOM_MODE\" in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "## PREPARATION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "$automute"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "read GATEWAY_EMAIL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ADFINISHED=1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# Check dependencies"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# no ad, regular pause"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "LOOPOPT=\"-loop 0\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "unmute"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "LOCPLAY=\"1\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "LOOPOPT=\"--loop 0\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# Fire up the forwarder."
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "checkdep(){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"## Regular track ##\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "git pull"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "if [ ! -d lora_gateway ]; then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ldconfig"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"## Music path: $LOCAL_MUSIC ##\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "automute_interstitial(){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"Installation completed.\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "elif type avplay > /dev/null 2>&1; then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "exit 1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "kill -s TERM \"$ALTPID\" 2> /dev/null"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "\"$INITIALRUN\" = \"0\" ]]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "spotify_dbus Play"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ADMUTE=0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# Start packet forwarder as a service"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "miss=(\"${miss[@]}\" \"and\" \"$i\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# read configuration file"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "debuginfo \"pactl: mute\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "set_musicdir"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "## check for missing dependencies"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ADMUTE=0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "if [[ \"$AD\" = \"0\" ]]; then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "\"$LOCPLAY\" = \"1\" ]]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "git reset --hard"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"## Paused by User ##\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "read GATEWAY_NAME"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "for i in \"${dep[@]}\"; do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "exit 1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "if [ ! -d packet_forwarder ]; then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "get_track_info"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "GATEWAY_EUI_NIC=\"eth0\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "elif type avplay > /dev/null 2>&1; then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"AD: Yes\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "printf \"Latitude [0]: \""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "LOOPOPT=\"-loop 0\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "./poly_pkt_fwd"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "unmute(){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "git fetch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "PAUSESIGNAL=0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# MAIN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "unmute"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "read GATEWAY_NAME"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# This triggers the xprop spy and"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"Gateway configuration:\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ALTPID=\"$!\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "set_player"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "if [[ \"$INSTALLCHOICE\" != \"y\" ]]; then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "unmute"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "print_horiz_line(){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "if [[ \"$AD\" = \"0\" ]]; then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# exit before continuing"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"## Regular track ##\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "make install"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "[[ -f \"$PIDFILE\" ]] && rm \"$PIDFILE\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"AD: No\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "pushd gateway-remote-config"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "git pull"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# First pull from the repo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "LOOPOPT=\"$CUSTOM_LOOPOPT\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "GATEWAY_EUI_NIC=\"eth0\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "unmute"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# Request gateway configuration data"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "elif type cvlc > /dev/null 2>&1; then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "CUSTOM_MODE=\"simple\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ADFINISHED=1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "INITIALRUN=\"0\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ADMUTE=0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "\"$LOCPLAY\" = \"1\" ]]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "get_state(){"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "notify_send \"ERROR: $1\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "echo \"## Ad block mode: $automute ##\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "misslist=$(echo ${miss[@]} | cut -c 4-)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "ADFINISHED=0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "CUSTOM_MODE=\"simple\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "GATEWAY_EUI=${GATEWAY_EUI^^} # toupper"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# Check dependencies"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "git reset --hard"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "LOCPLAY=0"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "printf \"Latitude [0]: \""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "git checkout legacy"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# ad started"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "# ad finished"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "while read XPROPOUTPUT; do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "line": "if ( ! type \"$i\" &>/dev/null ); then"
+        }
+    ]
+}

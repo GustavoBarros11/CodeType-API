@@ -1,0 +1,315 @@
+{
+    "shell": [{
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "alias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "bg"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "bind"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "builtin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "cd"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "command"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "declare"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "dirs"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "disown"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "done"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "echo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "elif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "enable"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "esac"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "eval"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "exec"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "exit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "done"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "elif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "esac"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "fi"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "function"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "select"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "until"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "time"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "rm"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "alias"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "bg"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "bind"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "builtin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "cd"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "command"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "declare"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "dirs"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "disown"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "done"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "echo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "elif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "enable"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "esac"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "eval"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "exec"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "exit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "done"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "elif"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "esac"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "fi"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "function"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "select"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "then"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "until"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "time"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb2",
+            "word": "rm"
+        }
+    ]
+}

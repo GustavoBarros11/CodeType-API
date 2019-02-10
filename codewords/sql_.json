@@ -1,0 +1,1691 @@
+{
+    "sql_": [{
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ALL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ALTER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AND"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ANY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ARRAY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ARROW"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ASC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BEGIN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BETWEEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CASE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CHECK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CLUSTERS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CLUSTER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COLAUTH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COLUMNS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COMPRESS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CONNECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CRASH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CREATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CURRENT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DECIMAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DECLARE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DEFAULT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DELETE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DESC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DISTINCT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DROP"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ELSE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "END"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXCEPTION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXCLUSIVE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXISTS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FETCH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FORM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FROM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "GOTO"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "GRANT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "GROUP"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "HAVING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IDENTIFIED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INDEXES"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INDEX"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INSERT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INTERSECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INTO"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LIKE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LOCK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MINUS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MODE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NOCOMPRESS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NOT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NOWAIT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NULL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ON"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OPTION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ORDER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VERLAPS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PRIOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PROCEDURE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PUBLIC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RANGE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RECORD"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RESOURCE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "REVOKE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SELECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SHARE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SIZE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SQL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "START"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SUBTYPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TABAUTH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TABLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "THEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TO"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TYPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UNION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UNIQUE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UPDATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "USE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VALUES"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VIEW"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VIEWS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WHEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WHERE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WITH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ALL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ALTER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AND"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ANY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ARRAY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ARROW"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ASC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BEGIN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BETWEEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CASE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CHECK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CLUSTERS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CLUSTER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COLAUTH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COLUMNS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COMPRESS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CONNECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CRASH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CREATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CURRENT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DECIMAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DECLARE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DEFAULT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DELETE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DESC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DISTINCT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DROP"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ELSE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "END"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXCEPTION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXCLUSIVE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXISTS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FETCH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FORM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FROM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "GOTO"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "GRANT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "GROUP"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "HAVING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IDENTIFIED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INDEXES"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INDEX"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INSERT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INTERSECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INTO"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LIKE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LOCK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MINUS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MODE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NOCOMPRESS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NOT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NOWAIT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NULL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ON"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OPTION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ORDER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VERLAPS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PRIOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PROCEDURE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PUBLIC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RANGE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RECORD"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RESOURCE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "REVOKE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SELECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SHARE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SIZE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SQL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "START"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SUBTYPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TABAUTH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TABLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "THEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TO"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TYPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UNION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UNIQUE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UPDATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "USE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VALUES"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VIEW"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VIEWS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WHEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WHERE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WITH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ADD"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AGENT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AGGREGATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ARRAY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ATTRIBUTE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AUTHID"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "AVG"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BFILE_BASE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BINARY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BLOB_BASE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BLOCK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BODY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BOTH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BOUND"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BULK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "BYTE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CALL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CALLING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CASCADE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CHAR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CHAR_BASE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CHARACTER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CHARSETFORM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CHARSETID"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CHARSET"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CLOB_BASE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CLOSE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COLLECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COMMENT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COMMIT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COMMITTED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COMPILED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CONSTANT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CONSTRUCTOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CONTEXT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CONVERT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "COUNT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CURSOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "CUSTOMDATUM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DANGLING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DATA"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DATE_BASE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DAY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DEFINE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DETERMINISTIC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DOUBLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "DURATION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ELEMENT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ELSIF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EMPTY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ESCAPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXCEPT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXCEPTIONS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXECUTE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXIT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "EXTERNAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FINAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FIXED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FLOAT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FORALL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FORCE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "FUNCTION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "GENERAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "HASH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "HEAP"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "HIDDEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "HOUR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "IMMEDIATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INCLUDING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INDICATOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INDICES"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INFINITE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INSTANTIABLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INTERFACE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INTERVAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "INVALIDATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ISOLATION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "JAVA"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LANGUAGE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LARGE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LEADING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LENGTH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LEVEL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LIBRARY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LIKE2"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LIKE4"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LIKEC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LIMIT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LIMITED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LOCAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LONG"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "LOOP"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MAP"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MAX"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MAXLEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MEMBER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MERGE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MIN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MINUTE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MOD"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MODIFY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MONTH"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "MULTISET"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NAME"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NAN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NATIONAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NATIVE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NCHAR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NEW"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NOCOPY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "NUMBER_BASE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OBJECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCICOLL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCIDATETIME"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCIDATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCIDURATION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCIINTERVAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCILOBLOCATOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCINUMBER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCIRAW"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCIREFCURSOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCIREF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCIROWID"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCISTRING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OCITYPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ONLY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OPAQUE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OPEN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OPERATOR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ORACLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ORADATA"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ORGANIZATION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ORLANY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ORLVARY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OTHERS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OUT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "OVERRIDING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PACKAGE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PARALLEL_ENABLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PARAMETER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PARAMETERS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PARTITION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PASCAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PIPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PIPELINED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PRAGMA"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PRECISION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "PRIVATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RAISE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RANGE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RAW"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "READ"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RECORD"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "REF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "REFERENCE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "REM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "REMAINDER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RENAME"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RESULT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RETURN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "RETURNING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "REVERSE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ROLLBACK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ROW"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SAMPLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SAVE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SAVEPOINT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SB1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SB2"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SB4"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SECOND"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SEGMENT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SELF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SEPARATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SEQUENCE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SERIALIZABLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SET"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SHORT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SIZE_T"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SOME"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SPARSE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SQLCODE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SQLDATA"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SQLNAME"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SQLSTATE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "STANDARD"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "STATIC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "STDDEV"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "STORED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "STRING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "STRUCT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "STYLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SUBMULTISET"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SUBPARTITION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SUBSTITUTABLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SUBTYPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SUM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "SYNONYM"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TDO"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "THE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TIME"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TIMESTAMP"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TIMEZONE_ABBR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TIMEZONE_HOUR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TIMEZONE_MINUTE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TIMEZONE_REGION"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TRAILING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TRANSAC"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TRANSACTIONAL"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TRUSTED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "TYPE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UB1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UB2"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UB4"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UNDER"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UNSIGNED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "UNTRUSTED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "USE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "USING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VALIST"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VALUE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VARIABLE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VARIANCE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VARRAY"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VARYING"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "VOID"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WHILE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WORK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WRAPPED"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "WRITE"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "YEAR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "word": "ZONE"
+        }
+    ]
+}

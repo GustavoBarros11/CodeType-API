@@ -1,0 +1,452 @@
+{
+    "php": [{
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$creator = \"Gustavo\";"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function store($request) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$post->id_usuario = $this->id();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function countNumber($number => 0) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$this->vegetal(true, \"verde\");"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$soma += number;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "class Espinafre extends Vegetal {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$date = new Date();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "parent::__construct();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "redirect(\"home\");"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "function __construct() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "class Cart extends CI_Model {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$this->data = $product->title;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function details() {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "header(\"Content-type: text/html\");"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "require \"required.inc.php\";"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "echo json_encode(myArray);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "foreach ($cars as $car) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "if ($_POST[\"php\"] == \"true\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "if(isset($argv[1])) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$creator = \"Gustavo\";"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use FacadesDB;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function destroy($id) {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$post->id_usuario = Auth::id();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$array = explode(\" \", $name);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$tags[0] += $t[0];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "protected $hidden = ["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "namespace AppHelpers;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function show($id)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function contactus()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use AppClassic;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$clearer = null;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$file = $this->getFile($id);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use AppCodeline;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "unset($tags[0][$attr]);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return $statistics;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "trait FilesystemCommonTrait"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "class SelectLang"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$langName = 'swift';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use AppUserStats;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$this->data = array();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "array_push($data, $langName);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function destroy($id)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$lang = new Codeline;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use CarbonCarbon;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$attributes = array("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$user->user_id = $id;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$request->validate(["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "'time' => 'integer|min:0'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return $content;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$totals = array("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return $data;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$data = $obj->select('ch');"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$tags[0] += $t[0];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use AppCodeword;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "'calls' => 0,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return $data;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$viewName = 'classicMode';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return $statistics;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use CarbonCarbon;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function userStats()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$user->save();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$user_stats = new UserStats;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "array_push($data, $langName);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "'misses' => 0,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function __construct()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$lang = new Codeline;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "private $cachePoolClearerTag;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$dsn = $name;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$lang = new Codeline;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$statistics[$name] = array("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use AppUser;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "++$statistics[$name]['hits'];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function reset()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "private $cacheClearerId;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$request->validate(["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$this->middleware('auth');"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "parent::__destruct();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function reset()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$file = $this->getFile($id);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "protected $hidden = ["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$user = Auth::user();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$tags[0] += $t[0];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "private $kernelResetTag;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$changed = false;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "public function getName()"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "'password', 'remember_token',"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use IlluminateHttpRequest;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use AppHelpersSelectLang;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use TestsTestCase;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$ok = true;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$langName = 'csharp';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$table->timestamps();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$request->validate(["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return @unlink($file);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$user = Auth::user();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$lang = new Codeword;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return $data;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$viewName = 'syntaxMode';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "use AppTestsTakenSpeed;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "array_push($data, $langName);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$request->validate(["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "unset($tags[0][$attr]);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$request->validate(["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$langName = 'english';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "array_push($data, $langName);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$file = $this->getFile($id);"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return $content;"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$viewName = 'battleMode';"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "$user->save();"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "++$statistics['hits'];"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37baf",
+            "line": "return $data;"
+        }
+
+    ]
+}

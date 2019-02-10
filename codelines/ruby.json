@@ -1,0 +1,783 @@
+{
+    "ruby": [{
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if activated?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "menu.choice(:irb) do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "e.extend(Ignorable)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def initialize(type, compiler)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "update_submodules if submodules?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if !missing"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": ":wrappers => true,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def find_compiler"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "spec.abbreviate"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "chdir: cached_location"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "locate(\"clang\") || locate(\"gcc\")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@args = args"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@full_gem_path = nil"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "say 'No new gems'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "tuples = [tuples.first]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "class CacheStore"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "fork_happened = false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def extensions_dir"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "spec = to_do.shift"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "extend Gem::Deprecate"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "return if scripts.empty?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def initialize(*args)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@errors = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@installed_gems"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "type = if klass == Dependency"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "dot_git = work_dir/\".git\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def inspect"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Debrew.debrew { super }"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "urls = [url, *mirrors]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "raise NotImplementedError"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "system_command! \"git\","
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "require \"utils/shell\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "<<~EOS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "<<~EOS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "deps.each do |dep|"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if @dev_shallow"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": ".join(\" and \")"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "elsif path.symlink?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "require \"keg\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "attr_reader :f"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "xml = REXML::Document.new(out)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "rescue FormulaUnavailableError"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "COLLECTIONS.fetch(standard) do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if origin.nil?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "case @ref_type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "require 'bundler/errors'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "scripts = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Version.new build_version"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "COMPILER_SYMBOL_MAP = {"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Time.parse(out)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "system_command! \"git\","
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "version.update_commit(commit)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@seen_prefix_sbin = false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "s << <<~EOS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "return if files.empty?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "cache_path.exist?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if i.positive?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "debugged_exceptions.add?(e) &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "out of the way:"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "\"\n\tgem install builder\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "white_list = ["
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "cc.realpath.basename.to_s"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "files << @specs_index"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "process_option(name, description)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "require \"keg\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "s = if skip_reason"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "system_command! \"git\","
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@files += [@specs_index,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "try_lock"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": ":shallow"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def llvm_clang_build_version"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "super(*args) unless shutup"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if @ignored"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "name = o.flag"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "when :zsh"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "<<~EOS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "sbin = HOMEBREW_PREFIX/\"sbin\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def initialize(*args)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "version.update_commit(commit)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def <<(other)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "super(*args) unless shutup"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "plist_filename = if f.plist"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "platform = spec.original_platform"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@clang_version ||= begin"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "inject_file_list unlinked, <<~EOS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "f.source"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@version"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "spec = to_do.shift"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "gem 'builder'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "mtime = f.mtime"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if name.length == 1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "puts \"Trying a mirror...\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "end.compact.first"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def check_git_version"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if ENV[\"HOMEBREW_DEVELOPER\"]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "class << self"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@database = database"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "include CompilerConstants"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def check_user_path_1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "return if Utils.git_available?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "rescue SystemExit"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "require \"time\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def initialize"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "[mod, url]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def reset"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "check_access_directories"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if consider_remote?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def base_dir"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "module_function"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "process_option(name, description)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "symlink_location.dirname.mkpath"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "next if dep.build?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@module = meta.fetch(:module)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def repo_valid?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "<<~EOS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "ref = case @ref_type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "alias update clone_repo"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "[].freeze"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "attr_reader :f"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Homebrew.args.freeze"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Dir[dep_or_name].each do |name|"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "compiling and linking."
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "destination_path/plist_filename"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "latest_specs ="
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Requirement.prune"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "path.chmod perms"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "args = %w[/bin/df -P]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "return unless Utils.git_available?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "return unless keg.elisp_installed?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "$stderr.puts e.backtrace"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def to_fullpath(path)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@type = type"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": ".success?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "xml = REXML::Document.new(out)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "rescue *rescue_exceptions"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "when :revision"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "TYPES = [:sha256].freeze"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "request_set = Gem::RequestSet.new"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "exit 1"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@user = user"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def cached_location"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "raise <<~EOS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def apple_compiler?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "platform = spec.original_platform"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def source_modified_time"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if @development and @dev_shallow"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "keys = build_env_keys(env)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "includes = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Debrew.debrew { super }"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "parts = in_url.split(/:/)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "puts \"Trying a mirror...\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if (path = locate(\"clang\")) &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Tuple.new(sp,so)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "Dir[dep_or_name].each do |name|"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "class GnuStdlib < CxxStdlib"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def update"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "raise NotImplementedError"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "update_args = if @ref_type && @ref"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@dest_directory = directory"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "!@args.empty? || !@options.empty?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "dependables.reject do |dep|"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "\"TEMP\" => HOMEBREW_TEMP,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "require \"mutex_m\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if e.issues_url"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "output, _, status = curl_output("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def check_user_path_3"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def used_options"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "dirs = []"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def process_option(*args)"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "return unless @db"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@shallow && support_depth?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "return false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "out.strip"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if path.extname == \".la\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@dest_directory = directory"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "info_dir_file = @f.info + \"dir\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "if path.executable? &&"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "ignores << \"test?\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "args << \"--branch\" << @ref"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "require 'rubygems/dependency_list'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "coreutils = Formula[\"coreutils\"]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "super <<~EOS"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "require \"json\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "bad_tap_files.keys.map do |tap|"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "next if path.directory?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "platforms = {}"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "def bottle?"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "help_flag = true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "@versions = versions"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "include CompilerConstants"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb9",
+            "line": "detect_from_symbol(using)"
+        }
+    ]
+}

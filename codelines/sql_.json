@@ -1,0 +1,403 @@
+{
+    "sql_": [{
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[Person_Archive]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY (1, 1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[ParentFolderId] [bigint] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") ON [PRIMARY]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY (1, 1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[ContactTypeId] [bigint] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[Navigation] OFF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Code] [nvarchar](20) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "IF @@FETCH_STATUS = -1 BREAK"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[ComparisonOperator]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[ModuleDefinition] OFF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "WHERE ra.roleid = 3 AND ctx.instanceid = c.id"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[RaceId] [bigint] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[QueuedEmail]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Name] [nvarchar](100) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[ModuleDefinitionId] [bigint] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[PatchNumber] [int] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[ReplyToId] [bigint] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY(1,1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Name] [nvarchar](100) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[RelatedId] [bigint] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") ON [PRIMARY]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[UserRole]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Name] [nvarchar](10) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[MessageImportance]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[MessageType]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[LastModified] [datetime] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "user2.firstname AS Firstname,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "QUOTENAME(TABLE_SCHEMA) +"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[Module]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "user2.city AS City,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[WorkPhoneExt] [nvarchar](10) NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Name] [nvarchar](100) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "N'.' +"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[EntityId] [bigint] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "-- navigation"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY(1,1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "N'DROP TABLE ' +"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[Preference] ("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[AssociationId] [bigint] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[AssociationId] [bigint] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") ON [PRIMARY]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Ssn4] [nvarchar](4) NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY(1,1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY(1,1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "N'DROP FUNCTION ' +"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET @LastError = @@ERROR"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [SqlUpdate] ("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") ON [PRIMARY]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[SecurityQuestion]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[ContactCommentType] ON"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[ContactType]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[FileData]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Name] [nvarchar](100) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[MessageType] OFF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY(1,1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[DateExpires] [datetime] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "ORDER BY SequenceNumber"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY(1,1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[RelatedId] [bigint] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY(1,1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[ModuleSettingDefinition] ON"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Created] [datetime] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[UserRole]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Id] [bigint] IDENTITY(1,1) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "ROUTINE_TYPE = N'PROCEDURE'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "-- identity"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[ContentGroupType] OFF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "TABLE_TYPE = N'BASE TABLE'"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "JOIN mdl_user AS u ON u.id = ra.userid"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") ON [PRIMARY]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "INFORMATION_SCHEMA.TABLES"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") ON [PRIMARY]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[ModuleSettingType] OFF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Name] [nvarchar](100) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Name] [nvarchar](50) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[EntityTypeId] [bigint] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "-- basic content"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[SenderId] [bigint] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Created] [datetime] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") ON [PRIMARY]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Subject] [nvarchar](MAX) NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[ContentGroupId] [bigint] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[DateOfBirth] [datetime] NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SELECT"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "INFORMATION_SCHEMA.TABLES"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "CREATE TABLE [sitebase].[ContactCommentType]("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "IF DB_NAME() IN ('master', 'msdb', 'model', 'distribution')"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[NotificationPreference] ON"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[AssociationId] [bigint] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") ON [PRIMARY]"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Email] [nvarchar](100) NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[AssociationId] [bigint] NOT NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[Language] OFF"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "[Title] [nvarchar](200) NULL,"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "N'DROP TABLE ' +"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": ") AS \"Teachers in course\""
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[ModuleSettingDefinition] ON"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[Language] ON"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bb3",
+            "line": "SET IDENTITY_INSERT [sitebase].[Relationship] OFF"
+        }
+    ]
+}

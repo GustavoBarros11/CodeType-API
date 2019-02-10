@@ -1,0 +1,343 @@
+{
+    "javascript": [{
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "abstract"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "break"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "char"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "debugger"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "double"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "export"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "finally"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "goto"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "in"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "let"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "null"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "public"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "super"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "throw"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "try"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "volatile"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "arguments"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "await"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "boolean"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "byte"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "case"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "catch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "class"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "constructor"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "continue"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "defaultPrompt("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "delete"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "do"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "else"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "enum"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "eval"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "extends"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "false"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "final"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "float"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "for"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "function"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "if"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "implements"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "import"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "instanceof"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "interpreterVersion("
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "interface"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "long"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "native"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "new"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "package"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "private"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "protected"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "return"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "short"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "static"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "switch"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "synchronized"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "this"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "throws"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "transient"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "true"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "typeof"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "var"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "void"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "while"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "with"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "yield"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "Array"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "hasOwnProperty"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "isPrototypeOf"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "isPrototypeOf"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "name"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "String"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "Date"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "Infinity"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "Number"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "length"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "toString"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "eval"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "isFinite"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "Math"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "Object"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "undefined"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "function"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "isNaN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "NaN"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "prototype"
+        },
+        {
+            "language_id": "5c0e27090c2a55426cf37bae",
+            "word": "valueOf"
+        }
+    ]
+}
