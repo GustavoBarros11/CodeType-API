@@ -782,6 +782,10 @@
         {
             "language_id": "5c0e27090c2a55426cf37bb0",
             "line": "author='Suman Pal',"
-        }
+        },
+       {
+           "language_id": "5c0e27090c2a55426cf37bb0",
+           "line": "from MyCourse import ArtificialIntelligence"
+       },
     ]
 }
